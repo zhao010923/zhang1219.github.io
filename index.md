@@ -13,4 +13,4 @@
  <p><img src="mmexport1601969362208.jpg" width="150" height="200" align="left"/> <img  src="1601969403598.jpeg" width="150" height="200" align="middle" /> <img src="1601969451342.jpeg" width="150" height="200" align="middle"/></p>
  <p>爸妈        哥哥和我      姐姐<p/>
 <p>初中高中我都是在虞城度过（毕竟咱是在那土生土长的呀），在这里我遇到了很多终生难忘的朋友与老师，在与他们的相处中，我感受到学校的温暖，也正是在他们的帮助下我来到了梦想中的PKU。虽然那里条件一般，但是我很喜欢那里的一草一木，一人一物。</p>
-<p><img src="1601969482393.jpeg" width="150" height="200" align="left"/> <img  src="" width="150" height="200" align="middle" /> <img src="1601969451342.jpeg" width="150" height="200" align="middle"/></p>
+<p><img src="1601969482393.jpeg" width="150" height="200" align="left"/> <img  src="59B98E1C69AEB212A7507AF45DFA476F_0.jpg" width="150" height="200" align="middle" /> <img src="1601969451342.jpeg" width="150" height="200" align="middle"/></p>
