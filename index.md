@@ -25,4 +25,4 @@
 <p>考入北京大学之后，我在这所全国最好的大学遇到了最好的同学，最好的辅导员，最好的老师，燕园的美使我流连忘返，
    未名湖上微风拂过，荡起水中的博雅塔，庄严肃穆的图书馆透露着北大人严肃认真的学术态度，
  身在燕园，我也被这里浓厚的学习氛围而感染，为自己身为一名北大人而骄傲。
- <p><img src="1601969482393.jpeg" width="150" height="200" align="left"/> <img  src="6D0ADDE2FDA20FB27B6A905048711A28_0.jpg" width="150" height="200" align="middle" /> <img src="2.jpeg" width="150" height="200" align="middle"/><img  src="3.jpeg" width="150" height="200" align="middle" /></p>
+ <p><img src="哈.jpg" width="150" height="200" align="left"/> <img  src="和.jpg" width="150" height="200" align="middle" /> <img src="哦.jpg" width="150" height="200" align="middle"/><img  src="3.jpeg" width="150" height="200" align="middle" /></p>
