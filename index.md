@@ -4,5 +4,4 @@
  <p>   年龄：19(虚岁二十的我恬不知耻的假装自己是一个小鲜肉）</p>
   <p>  籍贯：河南商丘虞城（来自小县城的我颤颤巍巍地在北京大学做一个老菜鸡)</p>
    <p>身高：180cm（理想185cm，嘿嘿！）  体重：70kg(略微有一点肥，努力减肥ing)</p>
-<p><img src="1.jpeg" width="100" height="150" align="right" /></p>
-
+<p><img src="1.jpeg" width="150" height="200" align="right" /></p>
