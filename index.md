@@ -15,7 +15,7 @@
 <p>初中高中我都是在虞城度过（毕竟咱是在那土生土长的呀），在这里我遇到了很多终生难忘的朋友与老师，在与他们的相处中，我感受到学校的温暖，也正是在他们的帮助下我来到了梦想中的PKU。虽然那里条件一般，但是我很喜欢那里的一草一木，一人一物。</p>
 <p><img src="1601969482393.jpeg" width="150" height="200" align="left"/> <img  src="6D0ADDE2FDA20FB27B6A905048711A28_0.jpg" width="150" height="200" align="middle" /> <img src="2.jpeg" width="150" height="200" align="middle"/><img  src="3.jpeg" width="150" height="200" align="middle" /></p>
 <p></p><br>
-<p>在高中，最幸运的是我遇到了生命中的那个她，虽然中间遇到了很多困难与矛盾，<img src="46da3772da7e0730.jpg" width="150" height="200" align="right"/>
+<p>在高中，最幸运的是我遇到了生命中的那个她，虽然中间遇到了很多困难与矛盾，<img src="46da3772da7e0730.jpg" width="200" height="250" align="right"/>
  但是终于我们度过了那段朦胧却又美好的高中时光，我们都已步入大学，我也终于可以名正言顺地牵着她的手走在大街上，
  满心欢愉洒满漫天星光，虽光阴流逝，岁月变迁，身边人依旧。</p>
  
