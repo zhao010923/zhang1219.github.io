@@ -1,4 +1,11 @@
-<h1><b>Welcome to Mr.zhang's personal website.</b></h1>
+<audio controls="controls" height="100" width="100">
+
+  <source src="Ken Arai - NEXT TO YOU -Rhodes Version-.mp3" type="audio/mp3" />
+
+  <source src="Ken Arai - NEXT TO YOU -Rhodes Version-.mp3" type="audio/ogg" />
+
+  <embed height="100" width="100" src="Ken Arai - NEXT TO YOU -Rhodes Version-.mp3" />
+  <h1><b>Welcome to Mr.zhang's personal website.</b></h1>
 <h2>self introduction</h2>
 <p>姓名：张佳军</p><p><img src="1.jpeg" width="150" height="200" align="right" /></p>
  <p>   年龄：19(虚岁二十的我恬不知耻的假装自己是一个小鲜肉）</p>
